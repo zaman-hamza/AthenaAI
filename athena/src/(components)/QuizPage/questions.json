@@ -1,0 +1,302 @@
+{
+    "question1": [
+        "What is the time complexity of finding an element in a sorted array using binary search?",
+        "O(1)",
+        "O(n)",
+        "O(log n)"
+    ],
+    "question2": [
+        "Which data structure uses LIFO (Last In, First Out) ordering?",
+        "Stack",
+        "Queue",
+        "Heap"
+    ],
+    "question3": [
+        "What is the worst-case time complexity of quicksort algorithm?",
+        "O(n^2)",
+        "O(n log n)",
+        "O(log n)"
+    ],
+    "question4": [
+        "Which sorting algorithm has a worst-case time complexity of O(n log n)?",
+        "Merge Sort",
+        "Bubble Sort",
+        "Selection Sort"
+    ],
+    "question5": [
+        "What is the purpose of a hash table?",
+        "Store and retrieve data with O(1) time complexity",
+        "Sort data efficiently",
+        "Manage memory allocation"
+    ],
+    "question6": [
+        "What is the primary purpose of Dijkstra's algorithm?",
+        "Finding the shortest path in a weighted graph",
+        "Finding the minimum spanning tree",
+        "Sorting a list of elements"
+    ],
+    "question7": [
+        "What is the time complexity of inserting an element into a heap?",
+        "O(log n)",
+        "O(1)",
+        "O(n)"
+    ],
+    "question8": [
+        "Which search algorithm can be implemented iteratively or recursively and requires a sorted array?",
+        "Binary Search",
+        "Linear Search",
+        "Depth-First Search"
+    ],
+    "question9": [
+        "What is the main disadvantage of using bubble sort?",
+        "Its time complexity is O(n^2)",
+        "It requires extra space",
+        "It is not a stable sorting algorithm"
+    ],
+    "question10": [
+        "What is the primary difference between breadth-first search (BFS) and depth-first search (DFS)?",
+        "BFS explores neighbors before further nodes",
+        "DFS explores further nodes before neighbors",
+        "DFS always finds the shortest path"
+    ],
+    "question11": [
+        "What is the time complexity of the best-case scenario for bubble sort?",
+        "O(n)",
+        "O(n log n)",
+        "O(n^2)"
+    ],
+    "question12": [
+        "Which data structure uses FIFO (First In, First Out) ordering?",
+        "Queue",
+        "Stack",
+        "Heap"
+    ],
+    "question13": [
+        "What is the purpose of dynamic programming?",
+        "Optimize recursive algorithms by storing results of subproblems",
+        "Sort elements in linear time",
+        "Allocate memory dynamically"
+    ],
+    "question14": [
+        "What is the primary application of a priority queue?",
+        "Implementing algorithms like Dijkstra's and Prim's",
+        "Storing data in sorted order",
+        "Performing stack operations"
+    ],
+    "question15": [
+        "What is the time complexity of the worst-case scenario for quicksort?",
+        "O(n^2)",
+        "O(n log n)",
+        "O(log n)"
+    ],
+    "question16": [
+        "Which data structure does not support constant-time access to its middle element?",
+        "Linked List",
+        "Array",
+        "Heap"
+    ],
+    "question17": [
+        "What is the primary disadvantage of using merge sort?",
+        "It requires O(n) auxiliary space",
+        "It has a worst-case time complexity of O(n^2)",
+        "It is not stable"
+    ],
+    "question18": [
+        "What is the main purpose of Kruskal's algorithm?",
+        "Finding the minimum spanning tree of a graph",
+        "Finding the shortest path in a graph",
+        "Sorting a list of elements"
+    ],
+    "question19": [
+        "Which sorting algorithm exhibits the best average-case time complexity?",
+        "Quicksort",
+        "Bubble Sort",
+        "Insertion Sort"
+    ],
+    "question20": [
+        "What is the time complexity of deleting an element from a heap?",
+        "O(log n)",
+        "O(1)",
+        "O(n)"
+    ],
+    "question21": [
+        "What is the primary goal of the Bellman-Ford algorithm?",
+        "Finding the shortest path in a weighted graph allowing negative edge weights",
+        "Finding the minimum spanning tree",
+        "Sorting a list of elements"
+    ],
+    "question22": [
+        "What is the time complexity of heap sort?",
+        "O(n log n)",
+        "O(n)",
+        "O(n^2)"
+    ],
+    "question23": [
+        "Which data structure is suitable for implementing a LRUCache?",
+        "Doubly Linked List",
+        "Binary Tree",
+        "Heap"
+    ],
+    "question24": [
+        "What is the main advantage of using insertion sort?",
+        "It is efficient for small data sets",
+        "It has a worst-case time complexity of O(n^2)",
+        "It does not require extra space"
+    ],
+    "question25": [
+        "What is the primary application of Floyd-Warshall algorithm?",
+        "Finding the shortest paths between all pairs of vertices in a weighted graph",
+        "Finding the minimum spanning tree",
+        "Sorting a list of elements"
+    ],
+    "question26": [
+        "What is the space complexity of quicksort algorithm?",
+        "O(log n)",
+        "O(n)",
+        "O(n^2)"
+    ],
+    "question27": [
+        "Which sorting algorithm has the best worst-case time complexity?",
+        "Merge Sort",
+        "Bubble Sort",
+        "Insertion Sort"
+    ],
+    "question28": [
+        "What is the primary use of a trie data structure?",
+        "Efficiently store and retrieve strings",
+        "Implement graph algorithms",
+        "Sort elements in linear time"
+    ],
+    "question29": [
+        "What is the time complexity of breadth-first search (BFS)?",
+        "O(V + E)",
+        "O(n log n)",
+        "O(log n)"
+    ],
+    "question30": [
+        "Which algorithm is used for finding the connected components in an undirected graph?",
+        "Depth-First Search (DFS)",
+        "Breadth-First Search (BFS)",
+        "Dijkstra's Algorithm"
+    ],
+    "question31": [
+        "What is the primary use of the Floyd-Warshall algorithm?",
+        "Finding the shortest paths between all pairs of vertices in a weighted graph",
+        "Finding the minimum spanning tree",
+        "Sorting a list of elements"
+    ],
+    "question32": [
+        "Which sorting algorithm exhibits the best worst-case time complexity?",
+        "Merge Sort",
+        "Heap Sort",
+        "Quick Sort"
+    ],
+    "question33": [
+        "What is the time complexity of depth-first search (DFS) on a graph with V vertices and E edges?",
+        "O(V + E)",
+        "O(n log n)",
+        "O(log n)"
+    ],
+    "question34": [
+        "What is the primary disadvantage of using radix sort?",
+        "It requires knowledge of key sizes",
+        "It has a worst-case time complexity of O(n^2)",
+        "It is not a stable sorting algorithm"
+    ],
+    "question35": [
+        "What is the main purpose of Prim's algorithm?",
+        "Finding the minimum spanning tree of a graph",
+        "Finding the shortest path in a graph",
+        "Sorting a list of elements"
+    ],
+    "question36": [
+        "What is the time complexity of merge sort?",
+        "O(n log n)",
+        "O(n)",
+        "O(n^2)"
+    ],
+    "question37": [
+        "Which data structure is used in the implementation of breadth-first search (BFS)?",
+        "Queue",
+        "Stack",
+        "Heap"
+    ],
+    "question38": [
+        "What is the main advantage of using heap sort?",
+        "It has a consistent O(n log n) time complexity",
+        "It is easy to implement",
+        "It has a worst-case time complexity of O(n^2)"
+    ],
+    "question39": [
+        "What is the primary application of the A* search algorithm?",
+        "Finding the shortest path in a graph with heuristics",
+        "Finding the minimum spanning tree",
+        "Sorting a list of elements"
+    ],
+    "question40": [
+        "What is the space complexity of the breadth-first search (BFS) algorithm?",
+        "O(V)",
+        "O(n log n)",
+        "O(log n)"
+    ],
+    "question41": [
+        "What is the primary use of the Dijkstra's algorithm?",
+        "Finding the shortest path in a weighted graph",
+        "Finding the minimum spanning tree",
+        "Sorting a list of elements"
+    ],
+    "question42": [
+        "Which algorithm is used for finding the shortest path in a weighted graph with negative edges?",
+        "Bellman-Ford Algorithm",
+        "Dijkstra's Algorithm",
+        "Floyd-Warshall Algorithm"
+    ],
+    "question43": [
+        "What is the primary disadvantage of using quicksort?",
+        "Its worst-case time complexity is O(n^2)",
+        "It requires extra space",
+        "It is not a comparison-based sorting algorithm"
+    ],
+    "question44": [
+        "What is the time complexity of the best-case scenario for merge sort?",
+        "O(n log n)",
+        "O(n)",
+        "O(n^2)"
+    ],
+    "question45": [
+        "Which sorting algorithm is an example of an in-place sorting algorithm?",
+        "Quicksort",
+        "Merge Sort",
+        "Heap Sort"
+    ],
+    "question46": [
+        "What is the primary advantage of using radix sort?",
+        "It can sort integers in linear time",
+        "It is easy to implement",
+        "It has a worst-case time complexity of O(n^2)"
+    ],
+    "question47": [
+        "What is the main purpose of the Kruskal's algorithm?",
+        "Finding the minimum spanning tree of a graph",
+        "Finding the shortest path in a graph",
+        "Sorting a list of elements"
+    ],
+    "question48": [
+        "What is the time complexity of insertion sort in the worst-case scenario?",
+        "O(n^2)",
+        "O(n log n)",
+        "O(n)"
+    ],
+    "question49": [
+        "Which data structure is suitable for implementing a stack?",
+        "Array or Linked List",
+        "Binary Tree",
+        "Heap"
+    ],
+    "question50": [
+        "What is the primary use of the Tarjan's algorithm?",
+        "Finding strongly connected components in a directed graph",
+        "Finding the minimum spanning tree",
+        "Sorting a list of elements"
+    ]
+}
